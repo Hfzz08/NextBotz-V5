@@ -27,36 +27,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtube.com/@Putra_Modz_'
-global.sgh = 'https://github.com/Lucife-Putra'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/6282214729677'
-global.swa = 'wa.me/682214729677'
+global.sig = 'https://instagram.com/hfzzrl_'
+global.syt = '-'
+global.sgh = 'https://github.com/Hfzz08'
+global.sgc = '-'
+global.sdc = 'https://wa.me/6285932593801'
+global.swa = 'wa.me/685932593801'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '-'
 global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.pgopay = '085932593801'
+global.ppulsa = '085932593801'
+global.ppulsa2 = '087764866518'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
+global.nomorbot = '6287764866518'
+global.nomorown = '6285932593801'
 global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nameown = 'Hfzzrl_'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['6281381926249'],
+  ['6287764866518'],
+  ['6283877511931'],
+  ['6285932593801', 'Hfzzrl_', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -108,17 +108,17 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
+global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 Hfzzrl_'//nama group kalian
 global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraModz'
+global.wm2 = 'Hfzzrl_'
 global.wm3 = 'NexBotz | By PutraModz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraModz'
+global.author = 'Hfzzrl_' 
+global.packname = 'Hfzzrl_'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = '10 Oktober 2006'
 
 
 /*============== LOGO ==============*/
@@ -135,11 +135,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'PutraModz'
-global.umurowner = '18'
+global.nameowner = 'Hfzzrl_'
+global.umurowner = '16'
 global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
-global.pacarowner = 'Amelia Putri septiany'
+global.nomorowner = 'wa.me/6285933593801'
+global.pacarowner = 'g.garto'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
